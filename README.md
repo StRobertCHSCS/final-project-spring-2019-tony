@@ -31,7 +31,7 @@ Document all the features that you want your game to have in a backlog in a Goog
 ### Step 4 - Project Kanban
 Create a Kanban board for the project using the *Project* feature in your github repository.  A demo will be provided for this.
 
-
+# See [back && forth](https://github.com/fakeinc/back-and-forth). It's a private repo for now. But I'll turn it to public when I finish most of it.
 
 
 
